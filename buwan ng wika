@@ -41,10 +41,11 @@ img {border:5px solid #0038A8;
 <h2>Ano ang Buwan ng Wika?</h2>
 
 <p>
-Ang Buwan ng Wika ay ipinagdiriwang tuwing Agosto upang
-ipakita ang pagmamahal sa wikang Filipino at sa ating kultura.
-Ito ay nagpapaalala sa atin na pahalagahan ang ating sariling
-wika at pagkakakilanlan bilang mga Pilipino.
+Ang Buwan ng Wika ay isang pagdiriwang na nagpapakita ng
+kahalagahan ng wikang Filipino sa ating buhay. Layunin nitong
+hikayatin ang bawat Pilipino na gamitin, pahalagahan, at
+ipagmalaki ang ating sariling wika bilang bahagi ng ating
+kultura, kasaysayan, at pagkakakilanlan.
 </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
@@ -62,9 +63,6 @@ height="250" width="380">
 
 <p>❤️ Ipinapakita nito ang ating kultura at pagkatao.</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Baybayin_Script.jpg"
-height="250" width="380">
-
 <div>═══════꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂═══════</div>
 
 <h2>Mga Katotohanan</h2>
@@ -76,9 +74,6 @@ height="250" width="380">
 <p>🌏 Mahigit 180 na wika ang ginagamit sa iba't ibang bahagi ng bansa.</p>
 
 <p>🎉 Maraming paaralan ang nagsasagawa ng patimpalak sa pagsulat, tula, at pagsasalita.</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Barong_Tagalog_and_Filipiniana.jpg"
-height="250" width="380">
 
 <div>═══════꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂═══════</div>
 
@@ -95,7 +90,9 @@ Kultura, at Pagmamahal sa Bayan."
 
 <p>I-click ang link sa ibaba upang malaman ang kasaysayan ng Wikang Filipino.</p>
 
-<a href="https://filipiknow.net/kasaysayan-ng-wikang-pambansa/">
+<a href="https://www.google.com"> click this link to go to google!</a><br>
+<a href="http://vcmc.eulap.co:8080/cbs/a/login"> click this link to go to lms!</a>
+ 
 Kasaysayan ng Wikang Filipino
 </a>
 
