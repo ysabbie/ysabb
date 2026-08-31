@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>All About Astronomy</title>
+
+<style>
+
+{text-align: center;
+font-family: Baskerville;
+font-style: italic;}
+
+body {background-color: #0C090A;
+color: #F3F9FC;
+margin: 0;
+padding: 20px;}
+
+h1 {color: #F3F9FC;
+font-size: 50px;
+padding: 20px;
+border-bottom: 5px solid #4C6679;}
+
+h2 {color: #F3F9FC;
+font-size: 30px;}
+
+p {background-color: #283A54;
+color: #F3F9FC;
+margin: 20px auto;
+padding: 20px;
+font-size: 18px;
+width: 70%;
+border: 3px solid #4C6679;}
+
+img {width: 350px;
+border: 8px double #F3F9FC;
+padding: 10px;
+background-color: #4C6679;}
+
+decoration{color: #4C6679;
+font-size: 25px;
+padding: 10px;}
+
+</style>
+</head>
+
+<body>
+
+<h1><center>All About Astronomy</center></h1>
+
+<div>
+✦ ────────── ✦ ────────── ✦
+</div>
+
+<h2><center>Exploring the Universe</center><h2>
+
+<img src="" alt="Astronomy">
+
+<p>Astronomy is the study of objects and events beyond Earth.
+It allows us to learn more about planets, stars, galaxies,
+and other wonders found in space.</p>
+
+<p>The universe is vast and full of mysteries. By studying
+astronomy, we can discover more about the world beyond
+our planet and how the universe works.</p>
+
+<div>
+✦ ────────── ✦ ────────── ✦
+</div>
+
+</body>
+</html>
