@@ -65,6 +65,10 @@
  <a href="https://www.google.com"> click this link to go to google!</a><br>
 <a href="http://vcmc.eulap.co:8080/cbs/a/login"> click this link to go to lms!</a><br>
 <a href="https://ysabbie.github.io/nutrition-month/"> page 2</a><br>
-<a href="https://ysabbie.github.io/ptbuwanngwika/"> page 3</a>
+<a href="https://ysabbie.github.io/ptbuwanngwika/"> page 3</a><br>
+<a href="https://ysabbie.github.io/nutrition-month/" class="button">Nutrition Month</a>
+<a href="https://ysabbie.github.io/ptbuwanngwika/" class="button">Buwan ng Wika</a>
+<a href="https://ysabbie.github.io/ysabb/" class="button">Personal information</a>
+
 </body>
 </html>
